@@ -49,8 +49,7 @@ print(r'''
 
 ''')
 
-print(
-    "Your Valorant Settings got reset? Don't worry, this mini-app reapplies them and saves your current config if you decide to.")
+print("Your Valorant Settings got reset? Don't worry, this mini-app reapplies them and saves your current config if you decide to.")
 print("Mode 1. Save your current settings")
 print("Mode 2. Apply settings")
 userinput = int(input("Please enter the mode number: "))
